@@ -59,7 +59,7 @@ public class ServerResource  {
                         .data(of("server", serverService.create(server)))
                         .message("Server Created")
                         .status(CREATED)
-                        .statusCode(CREATED.value())
+                        .statusCode(CREATED.value ())
                         .build()
         );
     }
