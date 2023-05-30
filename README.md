@@ -8,5 +8,5 @@ Njunji is a software Engineer who has worked with organisationss dealing with la
 
 -💻 Current work: Looking for great ways to binding tech with healthcare around the world.
 
--🧿 Doing Blogs of what I code at njunjimuchai.hashnode.dev
+-🧿 Doing Blogs of what I code at [njunjimuchai.hashnode.dev] (NjunjiMuchai)
 
