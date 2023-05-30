@@ -1,6 +1,6 @@
 Hi there 👋,
 
-Njunji is a ✨ _special_ ✨ boy 
+Njunji is a software Engineer who has worked with organisationss dealing with large scales systems and with versatile knowledge and skills.
 
 -📫 How to reach me: you don't, but i'll find you 😂😂
 
