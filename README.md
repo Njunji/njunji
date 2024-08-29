@@ -6,7 +6,7 @@ Njunji is a software Engineer who has worked with organisationss dealing with la
 
 -⚡ Fun fact: Music is the food to my soul
 
--💻 Current work: Looking for great ways to binding tech with healthcare around the world.
+-💻 Current work: Creating Payment platforms, E-commerce and anything fun.
 
 -🧿 Doing Blogs of what I code at [njunjimuchai.hashnode.dev]
 
